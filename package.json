@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "node fizzbuzz.js 1 50"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naptowncode/FizzBuzz.git"
+  },
+  "author": "Andy McConnell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naptowncode/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/naptowncode/FizzBuzz#readme"
+}
